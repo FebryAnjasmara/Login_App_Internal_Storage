@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainMenu">
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:text="Main Menu"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:text="Continually orchestrate robust portals rather than sustainable ideas. Appropriately communicate clicks-and-mortar benefits before just in time e-business. Dramatically evolve principle-centered collaboration and idea-sharing through leading-edge infrastructures. Conveniently matrix leading-edge customer service after plug-and-play architectures. Distinctively impact adaptive quality vectors via multimedia based web services.
+
+Holisticly deliver fully tested e-business via long-term high-impact quality vectors. Conveniently re-engineer global imperatives after team driven mindshare. Uniquely monetize functionalized partnerships vis-a-vis fully researched synergy. Uniquely unleash synergistic niches for market-driven catalysts for change. Continually reintermediate an expanded array of infrastructures with worldwide results.
+
+Globally formulate viral results vis-a-vis flexible mindshare. Seamlessly formulate."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
